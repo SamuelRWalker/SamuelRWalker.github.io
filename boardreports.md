@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Board Reports
-subtitle: Collection of my Board reports
 ---
 Here is a collection of the 4 board reports from my PCB Design and Manufacturing class. Only one board has been fully built, tested and analyzed, so only one report is up. You can refer to the Lab Reports to see what we are learning about in the class.
 

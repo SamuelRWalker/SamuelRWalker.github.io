@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Lab Reports
-subtitle: Collection of my Lab reports
 ---
-Here is a collection of the Lab reports that are assigned. We have around 30 labs in the class, where we explore various qualities and traits of PCB Design and Manufacturing. Only a handful of the reports are actually assigned as assignments. This is usually because they are 
-very important or big labs. I would like to make a report for each lab, however, I do not have time to do so. :)
+Here is a collection of the Lab reports that are assigned. We have around 30 labs in the class, where we explore various qualities and traits of PCB Design and Manufacturing. Only a handful of the labs are actually assigned as lab report assignments. I would like to make a report for each lab, however, I do not have time to do so. :)
 
 ### Lab 2
 Lab 2 had us build a prototype circuit with a solderless breadboard.
