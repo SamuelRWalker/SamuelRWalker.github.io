@@ -8,34 +8,34 @@ very important or big labs. I would like to make a report for each lab, however,
 
 ### Lab 2
 Lab 2 had us build a prototype circuit with a solderless breadboard.
-<object data="assets\pdf\pcb\ECEN_5730_Lab_2_Report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="assets\pdf\pcb\ECEN_5730_Lab_2_Report.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets\pdf\pcb\ECEN_5730_Lab_2_Report.pdf">Download PDF</a>.</p>
+<object data="assets/pdf/pcb/ECEN_5730_Lab_2_Report.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/pdf/pcb/ECEN_5730_Lab_2_Report.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdf/pcb/ECEN_5730_Lab_2_Report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ### Lab 5
 In lab 5 we investigate the behavior of a simple slammer circuit, which draws a large current and creates noise on the power rail. 
-<object data="assets\pdf\pcb\ECEN_5730_Lab_5_Report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="assets\pdf\pcb\ECEN_5730_Lab_5_Report.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets\pdf\pcb\ECEN_5730_Lab_5_Report.pdf">Download PDF</a>.</p>
+<object data="assets/pdf/pcb/ECEN_5730_Lab_5_Report.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/pdf/pcb/ECEN_5730_Lab_5_Report.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdf/pcb/ECEN_5730_Lab_5_Report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ### Lab 9
 In lab 9 we explored the impact of different interconnect approaches on cross-talk between
 an aggressor and victim signal-return path pair.
-<object data="assets\pdf\pcb\ECEN_5730_Lab_9_Report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="assets\pdf\pcb\ECEN_5730_Lab_9_Report.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets\pdf\pcb\ECEN_5730_Lab_9_Report.pdf">Download PDF</a>.</p>
+<object data="assets/pdf/pcb/ECEN_5730_Lab_9_Report.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/pdf/pcb/ECEN_5730_Lab_9_Report.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdf/pcb/ECEN_5730_Lab_9_Report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ### Lab 11-12
 In labs 11 and 12 we explore the resistance of differently sized traces and find out the current carrying capability of those traces.
-<object data="assets\pdf\pcb\ECEN_5730_Lab_11_12_Report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="assets\pdf\pcb\ECEN_5730_Lab_11_12_Report.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets\pdf\pcb\ECEN_5730_Lab_11_12_Report.pdf">Download PDF</a>.</p>
+<object data="assets/pdf/pcb/ECEN_5730_Lab_11_12_Report.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="assets/pdf/pcb/ECEN_5730_Lab_11_12_Report.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdf/pcb/ECEN_5730_Lab_11_12_Report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 

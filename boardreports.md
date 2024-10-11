@@ -14,7 +14,7 @@ This board was a simple 555 timer board. The purpose was to familiarise students
     </embed>
 </object>
 
-### Board 2
+### Board 2 - COMING SOON
 <!-- This board was a 555 timer hooked to two hex inverter layouts. The purpose was to show how the layout of components will affect noise.
 
 <object data="/assets/pdf/board2.pdf" type="application/pdf" width="700px" height="700px">
