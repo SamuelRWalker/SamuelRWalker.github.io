@@ -20,11 +20,11 @@ author: Samuel Walker
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Projects: 
-    - PCB Design & Manufacturing:
-      - Board Reports: "boardreports"
-      - Lab Reports: "labreports"
+  About Me: "pages/aboutme"
+  Electronics Design Lab:
+  PCB Design:
+    - Board Reports: "pages/boardreports"
+    - Lab Reports: "pages/labreports"
 
 ################
 # --- Logo --- #
