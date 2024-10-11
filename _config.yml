@@ -22,7 +22,7 @@ author: Samuel Walker
 navbar-links:
   About Me: "aboutme"
   Projects: 
-    PCB Design & Manufacturing:
+    - PCB Design & Manufacturing:
       - Board Reports: "boardreports"
       - Lab Reports: "labreports"
 
