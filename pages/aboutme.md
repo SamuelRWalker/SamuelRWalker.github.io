@@ -17,8 +17,8 @@ Here are some cool fun facts about me:
 
 #### My Resume (Although, you probably got here from there.)
 
-<object data="/assets/pdf/Samuel_Walker_Resume_Rev3.pdf" type="application/pdf" width="800px" height="1000px">
-    <embed src="/assets/pdf/Samuel_Walker_Resume_Rev3.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/Samuel_Walker_Resume_Rev3.pdf">Download PDF</a>.</p>
+<object data="/assets/pdf/SamuelWalkerResumeRev3.pdf" type="application/pdf" width="800px" height="1000px">
+    <embed src="/assets/pdf/SamuelWalkerResumeRev3.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/SamuelWalkerResumeRev3.pdf">Download PDF</a>.</p>
     </embed>
 </object>
