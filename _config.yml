@@ -21,10 +21,10 @@ author: Samuel Walker
 
 navbar-links:
   About Me: "pages/aboutme"
-  Independent Study:
-    - "pages/bogatin"
-    - "pages/blum"
-  Electronics Design Lab: "pages/edl"
+  Ind Study:
+    - ADC Characterization: "pages/bogatin"
+    - ALFS: "pages/blum"
+  EDL: "pages/edl"
   PCB Design:
     - Board Reports: "pages/boardreports"
     - Lab Reports: "pages/labreports"
