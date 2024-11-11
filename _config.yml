@@ -21,13 +21,16 @@ author: Samuel Walker
 
 navbar-links:
   About Me: "pages/aboutme"
-  Ind Study:
+  Classes:
+    - EDL: "pages/edl"
+    - PCB Design:
+      - PCB Board Reports: "pages/boardreports"
+      - PCB Lab Reports: "pages/labreports"
+  Projects:
     - ADC Characterization: "pages/bogatin"
     - ALFS: "pages/blum"
-  EDL: "pages/edl"
-  PCB Design:
-    - Board Reports: "pages/boardreports"
-    - Lab Reports: "pages/labreports"
+  
+    
 
 ################
 # --- Logo --- #

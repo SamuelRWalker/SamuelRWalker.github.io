@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: And what makes me, me
 ---
 
 My name is Sam. I'm an Electrical & Computer Engineering Student at CU Boulder. I love what I do, and I love learning. Here are a few of my skills and qualities:
@@ -11,11 +10,11 @@ My name is Sam. I'm an Electrical & Computer Engineering Student at CU Boulder. 
 - Innovative Project Development: Demonstrated track record of successfully designing, developing, and assembling a range of electronic systems, including robots, pcb's, and embedded software projects.
 
 Here are some cool fun facts about me:
-- I am graduating just three years of undergrad studies.
+- I am graduating after just three years of undergrad studies.
 - I am planning to pursue a masters in embedded systems engineering at Boulder.
 - I played varisty hockey and varsity lacrosse in high school.
 
-#### My Resume (Although, you probably got here from there.)
+#### My Resume
 
 <object data="/assets/pdf/SamuelWalkerResumeRev3.pdf" type="application/pdf" width="800px" height="1000px">
     <embed src="/assets/pdf/SamuelWalkerResumeRev3.pdf">
