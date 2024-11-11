@@ -39,27 +39,27 @@ In labs 11 and 12 we explore the resistance of differently sized traces and find
 
 ### Lab 13-14
 In labs 13 and 14 we explored crystal oscillators and a TVS diode, these components are important to understand as they will be used when we create our own Arduino board (Board 3).
-<object data="/assets/pdf/ECEN_5730_Lab_13_14_Report (2).pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/ECEN_5730_Lab_13_14_Report (2).pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf//assets/pdf/ECEN_5730_Lab_13_14_Report (2).pdf">Download PDF</a>.</p>
+<object data="/assets/pdf/pcb/ECEN_5730_Lab_13_14_Report (2).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/pcb/ECEN_5730_Lab_13_14_Report (2).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf//assets/pdf/pcb/ECEN_5730_Lab_13_14_Report (2).pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 
 ### Lab 16
 In lab 16 we explored single and differential-ended measurements.
-<object data="/assets/pdf/ECEN_5730_Lab_16 (1).pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/ECEN_5730_Lab_16 (1).pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/ECEN_5730_Lab_16 (1).pdf">Download PDF</a>.</p>
+<object data="/assets/pdf/pcb/ECEN_5730_Lab_16 (1).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/pcb/ECEN_5730_Lab_16 (1).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/pcb/ECEN_5730_Lab_16 (1).pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 
 ### Lab 18
 In lab 18 we measured inrush current and the effect it has on a circuit. 
-<object data="/assets/pdf/ECEN_5730_Lab_18 (1).pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/ECEN_5730_Lab_18 (1).pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/ECEN_5730_Lab_18 (1).pdf">Download PDF</a>.</p>
+<object data="/assets/pdf/pcb/ECEN_5730_Lab_18 (1).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/pcb/ECEN_5730_Lab_18 (1).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/pcb/ECEN_5730_Lab_18 (1).pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
