@@ -21,7 +21,7 @@ author: Samuel Walker
 
 navbar-links:
   About Me: "pages/aboutme"
-  Classes:
+  Coursework:
     - EDL: "pages/edl"
     - PCB Board Designs: "pages/boardreports"
     - PCB Labs: "pages/labreports"
