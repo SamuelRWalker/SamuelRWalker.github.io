@@ -23,12 +23,11 @@ navbar-links:
   About Me: "pages/aboutme"
   Classes:
     - EDL: "pages/edl"
-    - PCB Design:
-      - PCB Board Reports: "pages/boardreports"
-      - PCB Lab Reports: "pages/labreports"
-  Projects:
+    - PCB Board Designs: "pages/boardreports"
+    - PCB Labs: "pages/labreports"
+  Personal Projects:
     - ADC Characterization: "pages/bogatin"
-    - ALFS: "pages/blum"
+    - Automated Lab Feedback System: "pages/blum"
   
     
 

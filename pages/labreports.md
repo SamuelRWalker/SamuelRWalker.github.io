@@ -37,31 +37,31 @@ In labs 11 and 12 we explore the resistance of differently sized traces and find
     </embed>
 </object>
 
-### Lab 13-14 - COMING SOON
-<!-- In lab 15 we explored the professor's design of board 2, which explored good and bad PCB layouts' effect on noise and signal integrity.
-<object data="/assets/pdf/lab_15.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/lab_15.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/lab_15.pdf">Download PDF</a>.</p>
+### Lab 13-14
+In labs 13 and 14 we explored crystal oscillators and a TVS diode, these components are important to understand as they will be used when we create our own Arduino board (Board 3).
+<object data="/assets/pdf/ECEN_5730_Lab_13_14_Report (2).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/ECEN_5730_Lab_13_14_Report (2).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf//assets/pdf/ECEN_5730_Lab_13_14_Report (2).pdf">Download PDF</a>.</p>
     </embed>
-</object> -->
+</object>
 
 
-### Lab 16 - COMING SOON
-<!-- In lab 16 we explored single and differential-ended measurements.
-<object data="/assets/pdf/lab16.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/lab16.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/lab_15.pdf">Download PDF</a>.</p>
+### Lab 16
+In lab 16 we explored single and differential-ended measurements.
+<object data="/assets/pdf/ECEN_5730_Lab_16 (1).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/ECEN_5730_Lab_16 (1).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/ECEN_5730_Lab_16 (1).pdf">Download PDF</a>.</p>
     </embed>
-</object> -->
+</object>
 
 
-### Lab 18 - COMING SOON
-<!-- In lab 18 we measured inrush current and the effect it has on a circuit. 
-<object data="/assets/pdf/lab18.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/lab18.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/lab_15.pdf">Download PDF</a>.</p>
+### Lab 18
+In lab 18 we measured inrush current and the effect it has on a circuit. 
+<object data="/assets/pdf/ECEN_5730_Lab_18 (1).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/ECEN_5730_Lab_18 (1).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/ECEN_5730_Lab_18 (1).pdf">Download PDF</a>.</p>
     </embed>
-</object> -->
+</object>
 
 ### Lab 22 - COMING SOON
 <!-- In lab 22 we made a SSB version of Board 4.
