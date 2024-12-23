@@ -25,6 +25,8 @@ navbar-links:
     - EDL: "pages/edl"
     - PCB Board Designs: "pages/boardreports"
     - PCB Labs: "pages/labreports"
+    - Embedded System Design: "pages/embedded"
+    - Matrix Methods: "pages/matrix"
   Personal Projects:
     - ADC Characterization: "pages/bogatin"
     - Automated Lab Feedback System: "pages/blum"

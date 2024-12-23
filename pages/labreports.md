@@ -64,20 +64,20 @@ In lab 18 we measured inrush current and the effect it has on a circuit.
 </object>
 
 ### Lab 22 - COMING SOON
-<!-- In lab 22 we made a SSB version of Board 4.
-<object data="/assets/pdf/lab22.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/lab22.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/lab_15.pdf">Download PDF</a>.</p>
+In lab 22 we made a SSB version of Board 4.
+<object data="/assets/pdf/pcb/ECEN_5730_lab_21_22 (1).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/pcb/ECEN_5730_lab_21_22 (1).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/pcb/ECEN_5730_lab_21_22 (1)">Download PDF</a>.</p>
     </embed>
-</object> -->
+</object>
 
 
 ### Lab 25 - COMING SOON
-<!-- In lab 25 we explore the impact of ferrite filters. 
-<object data="/assets/pdf/lab25.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/lab25.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/lab_15.pdf">Download PDF</a>.</p>
+In lab 25 we explore the impact of ferrite filters. 
+<object data="/assets/pdf/pcb/ECEN_5730_Lab_25.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/pcb/ECEN_5730_Lab_25.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/pcb/ECEN_5730_Lab_25.pdf">Download PDF</a>.</p>
     </embed>
-</object> -->
+</object>
 
 

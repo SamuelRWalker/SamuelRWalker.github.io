@@ -31,9 +31,9 @@ Board 3 is an Arduino Uno. We design our own 2-layer board using best practices.
 </object>
 
 ### Board 4 - COMING SOON
-<!-- Board 4 was a shield for our Arduino uno. The shield measured thevenin voltage and resistance of a VRM.
-<object data="/assets/pdf/board_4.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/board_4.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/board_1.pdf">Download PDF</a>.</p>
+Board 4 was a shield for our Arduino uno. The shield measured thevenin voltage and resistance of a VRM.
+<object data="/assets/pdf/pcb/ECEN_5730_Brd_4_Report (1).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/pcb/ECEN_5730_Brd_4_Report (1).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/pcb/ECEN_5730_Brd_4_Report (1).pdf">Download PDF</a>.</p>
     </embed>
-</object> -->
+</object>
