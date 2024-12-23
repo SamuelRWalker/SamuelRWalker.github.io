@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Embedded Systems Lab Reports
+title: Embedded Tetris Game
 ---
 
- Below is the report for the final project: Tetris on STM32F429i.
+Below is the report for the final project: Tetris on STM32F429i.
 
 ### Final Project: Tetris on STM32F429i
 In this project, I developed a functional Tetris game on the STM32F429i development board, demonstrating skills in embedded programming, touchscreen interfaces, and timer-based scheduling. The game includes a main menu, interactive gameplay, and a game-over screen with gameplay statistics.  
